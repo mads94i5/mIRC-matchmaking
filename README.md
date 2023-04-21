@@ -1,4 +1,4 @@
-# mIRC-matchmaking
+# mIRC Counter-Strike matchmaking
 
 A script made many years ago at the beginning of me self-learning code.
 The script was made to make it easier to find matches in Counter-Strike, back when people used IRC to find matches.
