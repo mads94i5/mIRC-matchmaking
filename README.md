@@ -2,7 +2,7 @@
 
 A script made many years ago at the beginning of me self-learning code.
 
-The script was made to make it easier to find matches in Counter-Strike, back when people used IRC to find matches.
+The script was made to make it easier to find matches in Counter-Strike, back when people used IRC (Internet Relay Chat) to find matches.
 
 It is meant as a script to put on a bot/seperate instance of mIRC and when prompted with the correct commands, it will join a few different IRC channels and start advertising the kind of match you are searching for as well as start messaging people who are advertising something that matches your search. 
 
