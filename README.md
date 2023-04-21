@@ -18,7 +18,7 @@ But it was functional and was used a lot by me and my friends back when Counter-
 
 How to use script:
 1. Put the script in your bot/seperate mIRC instance. (Example: C:/Users/YOURWINDOWSUSER/AppData/Roaming/mIRC/scripts)
-2. Edit all the scripts instances of #channelname to fit your private IRC channel's name.
+2. Edit all the scripts instances of #channelname to fit your private IRC channels name.
 3. Give the bot +o (operator on your private channel).
 4. Now you and your friends with access to your private channel can type commands to the bot.
 
