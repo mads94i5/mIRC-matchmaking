@@ -2,11 +2,13 @@
 
 A script made many years ago at the beginning of me self-learning code.
 The script was made to make it easier to find matches in Counter-Strike, back when people used IRC to find matches.
+
 It is meant as a script to put on a bot/seperate instance of mIRC and when prompted with the correct commands, it will join a few different IRC channels and start advertising the kind of match you are searching for as well as start messaging people who are advertising something that matches your search. 
-You can set up IP and password if you have your own game server and if you search with a server, it will give IP and password to the first person that has an advertisement that matches your search and then stop searching. If you search without a server, the script will request IP and password in a private message and relay that to the private channel that you set up in the script. 
+
+You can set up IP and password if you have your own game server and if you search with a server, it will give IP and password to the first person that has an advertisement that matches your search and then stop searching. If you search without a server, the script will request IP and password in a private message and relay the messages in a notice to the person that started the search. The script will automatically respond to *from*, which was usually a way to ask where people are from.
 The bot will also ignore any links, as malicious links in private messages was not uncommon.
 
-Note: It is no longer viable as a matchmaking tool as no one really uses IRC to find matches in Counter-Strike anymore since the adoption of CS:GO, which has it's own matchmaking system and popular alternative matchmaking on websites such as faceit.
+Note: It is no longer viable as a matchmaking tool as no one really uses IRC to find matches in Counter-Strike anymore since the adoption of CS:GO, which has it's own matchmaking system and popular alternative matchmaking on websites.
 
 But it was a tool that was far ahead of its time as matchmaking was not a standard feature in games at the time when I made this script. And I found that it might be worth hosting here as a memento and a display of how I started learning to code.
 
